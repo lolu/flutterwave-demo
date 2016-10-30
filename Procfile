@@ -1,1 +1,1 @@
-web: gunicorn flutterwave-demo.py
+web: gunicorn flutterwave-demo:app
